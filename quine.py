@@ -10,5 +10,6 @@ def main():
     import hello
     hello.sayHello()
 
-main()
+if __name__ == "main":
+    main()
     
